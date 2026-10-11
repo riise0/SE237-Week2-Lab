@@ -1,0 +1,3 @@
+Exception in thread "main" java.lang.IllegalArgumentException: lossPercent must be between 0 and 99
+	at BomLine.<init>(Main.java:14)
+	at Main.main(Main.java:31)

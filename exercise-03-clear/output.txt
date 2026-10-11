@@ -1,0 +1,10 @@
+Before change:
+Original size: 1
+Revision size: 1
+After change:
+Original size: 2
+Revision size: 1
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at java.base/java.util.ImmutableCollections.uoe(ImmutableCollections.java:159)
+	at java.base/java.util.ImmutableCollections$AbstractImmutableCollection.clear(ImmutableCollections.java:166)
+	at Main.main(Main.java:67)

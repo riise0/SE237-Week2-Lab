@@ -1,0 +1,3 @@
+Stock updated
+Material needs calculated
+Invoice created

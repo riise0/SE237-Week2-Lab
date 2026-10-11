@@ -1,0 +1,6 @@
+Before change:
+Original size: 1
+Revision size: 1
+After change:
+Original size: 2
+Revision size: 1
